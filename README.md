@@ -10,3 +10,5 @@ A new Flutter project.
   <li>Freezed and json serialization</li>
   <li>The Movie DataBase API</li>
 </ul>
+
+##Screenshots
