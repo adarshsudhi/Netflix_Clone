@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+# Getting Started
 
 <ul>
   <li>Firebase Authentication</li>
@@ -11,4 +11,4 @@ A new Flutter project.
   <li>The Movie DataBase API</li>
 </ul>
 
-##Screenshots
+# Screenshots
