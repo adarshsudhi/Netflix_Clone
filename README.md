@@ -14,4 +14,6 @@ A new Flutter project.
 ## Screenshots
 
 
-<img src="https://github.com/adarshsudhi/Netflix_Clone/blob/main/assets/animation.gif.mp4" alt="screen_04" height="300" />
+
+https://user-images.githubusercontent.com/59518674/233790785-f07dc4a2-105a-443a-bf25-a5780b822b37.mp4
+
