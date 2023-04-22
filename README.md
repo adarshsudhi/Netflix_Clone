@@ -15,5 +15,3 @@ A new Flutter project.
 
 
 
-https://user-images.githubusercontent.com/59518674/233790785-f07dc4a2-105a-443a-bf25-a5780b822b37.mp4
-
