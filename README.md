@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-# Getting Started
+# Packages Used
 
 <ul>
   <li>Firebase For Authentication</li>
