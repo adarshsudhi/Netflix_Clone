@@ -1,4 +1,4 @@
-# NetFlix
+# NetFlix_Clone
 
 A new Flutter project.
 
