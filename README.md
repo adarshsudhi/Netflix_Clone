@@ -13,5 +13,4 @@ A new Flutter project.
 
 ## Screenshots
 
-
-
+![animationgif](https://user-images.githubusercontent.com/59518674/233791019-96541b3f-be8d-4d8f-9558-03404c70d7cf.gif)
