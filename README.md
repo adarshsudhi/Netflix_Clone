@@ -14,4 +14,4 @@ A new Flutter project.
 ## Screenshots
 
 
-![https://user-images.githubusercontent.com/59518674/233790160-c8c57f41-ba50-4bd8-b81b-e03eaa186342.mp4]
+https://user-images.githubusercontent.com/59518674/233790336-47b9b865-f1a2-4a04-8be0-fee38373ac31.gif
